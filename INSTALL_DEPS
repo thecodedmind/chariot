@@ -1,0 +1,2 @@
+sudo apt-get install ruby-gnome2
+gem install gtk2
