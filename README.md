@@ -11,3 +11,4 @@ The graphical user interface, written using GTK3.
 
 ## codedmind
 The Conversational engine library that the GUI calls to, uses a custom scripting interface to add triggers and commands. Can be launched independantly of the GUI as a terminal input.
+Syntactically, it's inspired by RiveScript, and should be fully compatible with most of its triggers, especially atomic triggers.
